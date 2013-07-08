@@ -1,2 +1,1 @@
-php-imageresize
-===============
+A simple PHP class for performing resize and crop operations with images.
